@@ -56,7 +56,7 @@ const Hero = () => {
             Finance Trading Developer AI/ML 
         </motion.div>
         <div className="imagecontainer">
-         <img src="/hero.png" alt="" />
+         <img src="/file.png" alt="" />
         </div>
     </div>
   )
