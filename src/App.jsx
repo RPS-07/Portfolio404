@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar/navbar";
 import Hero from "./Components/Hero/Hero"
 import Parallax from "./Components/Parallax/Parallax";
 import Services from "./Components/Services/Services";
+import Projects from "./Components/projects/projects";
 
 const App = () => {
   return <div>
