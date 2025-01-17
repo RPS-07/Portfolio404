@@ -12,7 +12,7 @@ const navbar = () => {
             animate={{opacity:1, scale:1}} 
             transition={{duration:1}}>Portfolio404</motion.span>
             <div className="Social">
-                <motion.a href="" initial={{opacity:0, scale:0.5}} 
+                <motion.a href="https://x.com/RAMAN_202" initial={{opacity:0, scale:0.5}} 
                                   animate={{opacity:1, scale:1}} 
                                   transition={{duration:0.5}}>
                                   <img src="/X.png" alt="" />
